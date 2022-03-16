@@ -1,0 +1,5 @@
+Credentials cache: API:D66DB9D0-E30E-413F-B1D0-C55F3DC613DB
+        Principal: ltychon@S19.BE
+
+  Issued                Expires               Principal
+Nov  9 19:42:07 2021  Nov 10 05:42:01 2021  krbtgt/S19.BE@S19.BE
